@@ -7,7 +7,7 @@
     <td><img src ="https://t4.ftcdn.net/jpg/06/45/44/67/360_F_645446744_YUeYhA4Sbc8xOiyaX1DBslwk51DGmue4.jpg"></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="/Knes381/subfolder/readme.md"> Get a more detailed look of Alfred by clicking on this link to a readme.md file</a></td>
+    <td colspan="2"><a href="/subfolder/readme.md"> Get a more detailed look of Alfred by clicking on this link to a readme.md file</a></td>
   </tr>
 </table>
 </body>
