@@ -10,6 +10,5 @@
     <td colspan="2"><a href="subfolder/slothimage.html"> Get a more detailed look of Alfred by clicking on this link!</a></td>
   </tr>
 </table>
-<a href="README.md"> Link to readme.md file.</a>
 </body>
 </html>
